@@ -18,6 +18,7 @@ A full-featured bookstore application where users can browse books, add them to 
 
 
 Start the frontend development server:
+
     ```bash
     cd bookstore/Frontend
     npm install
@@ -26,6 +27,7 @@ Start the frontend development server:
 
 
 Start the backend server:
+
     ```bash
     cd bookstore/Backend
     npm install
