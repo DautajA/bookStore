@@ -28,7 +28,7 @@ Start the frontend development server:
 
 Start the backend server:
 
-    ```bash
+    ```
     cd bookstore/Backend
     npm install
     npm start
