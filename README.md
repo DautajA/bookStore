@@ -38,6 +38,8 @@ Start the backend server:
    The backend server will now be running on `http://localhost:4001`.
    
 
+
+
 ## Below, I am attaching some photos showing how the project looks:
 <div align="center">
     <img src="https://github.com/user-attachments/assets/c875280b-8b99-46a8-8a6e-7bed13d3f5c9" alt="Screenshot 1" style="width: 900px; height: 500px;"/>
